@@ -4,7 +4,7 @@
 
 
 ---
-*IMPORTANT NOTE*: This is an alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated associations. 
+*IMPORTANT NOTE*: This is a forked version of @_g4brielShapir0's alpha release of a potential model DAO Charter for DAOs wishing to function as unincorporated non-profit associations under Delaware law. 
 
 There are a large number of assumptions embedded in this document. Among the most important is that the DAO shares/membership interests are NOT securities. This model form would not be suitable for DAOs whose tokens/membership interests are securities. 
 
@@ -14,7 +14,7 @@ Code deference exists along a spectrum, with one end being "code is law" and the
 
 This document does not constitute legal, financial or other advice and is not intended to be relied upon or used by any person for any purpose, other than informational and educational purposes. No attorney-client relationship or privilege is intended to be created or implied. No representation or warranty is being made as to the quality or fitness for any purpose of this document. Furthermore, this document is not recommended for use, but only for research. 
 
-This document is currently copyright ZeroLaw LLC but will be made open-source after further refinement and clean-up. Please do not use or quote without permission.
+This document is currently copyright by ZeroLaw LLC but will be made open-source after further refinement and clean-up. Please do not use or quote without permission.
 
 By reading, transmitting or copying this document or any portion thereof, you consent and agree to the foregoing terms.*/
 
@@ -22,7 +22,7 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
 ###  I. NATURE OF DAO CHARTER
 
- (a) This charter (this “***Charter***”) is the official legal charter of the ___________ /*INSERT NAME OF DAO*/ (the “***DAO***”). This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, enforceable in accordance with its terms under the laws of ___________ /*INSERT NAME OF LEGAL JURISDICTION*/. Certain capitalized terms used in this Charter are defined in Section 6. 
+ (a) This charter (this “***Charter***”) is the official legal charter of the ___________ /*INSERT NAME OF DAO*/ (the “***DAO***”). This Charter is intended to be a legal agreement & contract binding upon all DAO Members and the other DAO Participants, enforceable in accordance with its terms under the laws of Delaware. Certain capitalized terms used in this Charter are defined in Section 6. 
 
   (b) If you have received any DAO Membership Token or are otherwise a DAO Member, you consent to & agree to become legally bound by this Charter as both a DAO Participant and more specifically a "***DAO Member***".    
   
@@ -30,12 +30,11 @@ By reading, transmitting or copying this document or any portion thereof, you co
  
  (a) The name of the DAO is ___________ /*INSERT NAME OF DAO*/.
  
- (b) The DAO is a "decentralized autonomous organization"--i.e., an unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
+ (b) The DAO is a "decentralized autonomous organization." In other words, an unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
  
  (c) The activities and purposes to be conducted or promoted by the DAO are described at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter (the "***Purposes***"). 
  
- (d) The DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality separate from the DAO Members. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership. 
- 
+ (d) The DAO is intended to, and shall be deemed to, be a "nonprofit association" as defined under the Delaware Uniform Unincorporated Nonprofit Association Act (19 Del. C. 6 § 1901(2)) and a legal person with a legal personality separate from the DAO Members. 
 
   (e) The DAO Members shall utilize the Designated Smart Contract (a smart contract deployed to the Designated Blockchain at the Designated Blockchain Address) as the exclusive method of holding, allocating among the DAO Members, and spending or otherwise distributing any Tokens that are DAO Property, of minting and issuing DAO Membership Tokens and holding and recording votes of the DAO Members. The DAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving the DAO, the DAO Members and/or third Members.
   
@@ -45,9 +44,9 @@ By reading, transmitting or copying this document or any portion thereof, you co
 
  (b) Membership rights in the DAO shall be represented by Tokens (the "***DAO Membership Tokens***") minted and issued through the Designated Smart Contract. 
 
- (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Members shall have the rights, powers and privileges set forth at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
+ (c) DAO Members shall have the rights, powers and privileges that are possible to be taken or exercised by DAO Members through the Designated Smart Contract as further set forth in Section 4. Additionally, DAO Members shall have the rights, powers and privileges set forth at [________]() /*ADD HTML LINK TO DESCRIPTION OF DAO PURPOSES OR MISSION STATEMENT*/, as they may be updated from time to time in accordance with this Charter, as if fully incoprorated herein. The rights, powers and privileges of DAO Members are referred to herein as the "***DAO Membership Rights***".
 
- (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a DAO Member to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of the DAO or any other DAO Member. No DAO Member shall state, purport, imply, hold out or represent to any person that such DAO Member or any other DAO Member has any such authority, right or power.  
+[ (d) Status as a DAO Member does not (and shall not be deemed to) create, and the DAO Membership Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a DAO Member to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other DAO Member, to bind the DAO or any other DAO Member to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any DAO Member.  Without limiting the generality of the foregoing, no DAO Member shall be deemed the partner of the DAO or any other DAO Member. No DAO Member shall state, purport, imply, hold out or represent to any person that such DAO Member or any other DAO Member has any such authority, right or power.]
  
  (e) To the maximum extent permitted by applicable law, no DAO Member shall be (or shall be deemed to be) Liable for any Liability of the DAO or any other DAO Member. This clause "(e)" shall not (and shall not be deemed to) create or imply any obligation of the DAO or any DAO Member to indemnify or compensate any DAO Member from, or hold any DAO Member harmless against, any Liabilities incurred by such DAO Member under any applicable law, in connection with the DAO Member's participation in the DAO or otherwise.  
   
